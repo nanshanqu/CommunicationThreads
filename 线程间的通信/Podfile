@@ -1,0 +1,6 @@
+platform :ios,'9.0'
+target "线程间的通信" do
+
+	pod 'Masonry'
+
+end
